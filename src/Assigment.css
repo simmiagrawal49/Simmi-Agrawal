@@ -1,0 +1,338 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .mainRect {
+    position: relative;
+    width: 480px;
+    height: 600px;
+    background: linear-gradient(154.8deg, #ffffff 15.61%, #ffffff 88.3%),
+      #ffffff;
+  }
+  .mainImg {
+    /* sidebar-image */
+    width: 480px;
+    height: 270.89px;
+    background: url(./imagemob.png);
+  }
+
+  .imagecontent {
+    position: relative;
+    left: 60px;
+    top: 60px;
+  }
+  .sampleheading {
+    width: 368px;
+    height: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    /* identical to box height */
+    color: #ffffff;
+  }
+
+  .paratext {
+    width: 368px;
+    height: 102px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #ffffff;
+  }
+  .formContent {
+    margin: 50px;
+  }
+  .createAnAccount {
+    width: 272px;
+    height: 39px;
+    left: 99px;
+    top: 311px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+  }
+
+  .form1 {
+    /* Rectangle 4 */
+    width: 480px;
+    height: 513px;
+  }
+  .textformat {
+    width: 165px;
+    height: 27px;
+    left: 100px;
+    top: 360px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000000;
+  }
+  .enteremail {
+    position: relative;
+    top: 10px;
+  }
+  .enterdate {
+    position: relative;
+    top: 5px;
+  }
+  .enterpassword {
+    position: relative;
+    top: 5px;
+  }
+  .enteragency {
+    position: relative;
+    top: 25px;
+  }
+  .inputbox {
+    width: 402px;
+    height: 52px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+  }
+  .dateformat {
+    width: 98px;
+    height: 52px;
+    background: #ffffff;
+    /* Gray 4 */
+    border: 1px solid #bdbdbd;
+    box-sizing: border-box;
+  }
+  .monthformat {
+    width: 136px;
+    height: 52px;
+    background: #ffffff;
+    /* Gray 4 */
+    border: 1px solid #bdbdbd;
+    box-sizing: border-box;
+  }
+  .yearformat {
+    width: 130px;
+    height: 52px;
+    background: #ffffff;
+    /* Gray 4 */
+    border: 2px solid #bdbdbd;
+    box-sizing: border-box;
+  }
+  .labelDate {
+    width: 29px;
+    height: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #666666;
+  }
+  .radiooption {
+    width: 28px;
+    height: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+  }
+  .button {
+    position: relative;
+    top: 50px;
+    width: 188px;
+    height: 44px;
+    background: #2d9cdb;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 21px;
+    color: #ffffff;
+    border: none;
+  }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1440px) {
+  .mainRect {
+    position: absolute;
+    width: 760px;
+    height: 513px;
+    left: 376px;
+    top: 148px;
+    background: #ffffff;
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    overflow: "visible";
+  }
+  .mainImg {
+    /* sidebar-image */
+    width: 361px;
+    height: 513px;
+    float: left;
+    background: url(./image.png);
+    border-radius: 5px 0px 0px 5px;
+  }
+  .Ellipse {
+    position: absolute;
+    width: 2533px;
+    height: 965px;
+    left: -422px;
+    top: -578px;
+    background: #c7acda;
+    border-radius: 60%;
+  }
+  .form1 {
+    /* Rectangle 4 */
+    width: 399px;
+    height: 513px;
+    float: left;
+  }
+  .formContent {
+    margin: 30px;
+  }
+  .createAnAccount {
+    width: 196px;
+    height: 28px;
+    left: 49px;
+    top: 32px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+  }
+  .textformat {
+    width: 122px;
+    height: 19px;
+    left: 50px;
+    top: 81px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #000000;
+  }
+  .enteremail {
+    position: relative;
+    top: 30px;
+  }
+  .enterdate {
+    position: relative;
+    top: 30px;
+  }
+  .enterpassword {
+    position: relative;
+    top: 30px;
+  }
+  .enteragency {
+    position: relative;
+    top: 50px;
+  }
+  .inputbox {
+    width: 290px;
+    height: 37px;
+    background: #ffffff;
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+  .dateformat {
+    width: 64px;
+    height: 37px;
+    background: #ffffff;
+    /* Gray 4 */
+    border: 1px solid #bdbdbd;
+    box-sizing: border-box;
+  }
+  .monthformat {
+    width: 105px;
+    height: 37px;
+    background: #ffffff;
+    /* Gray 4 */
+    border: 1px solid #bdbdbd;
+    box-sizing: border-box;
+  }
+  .yearformat {
+    width: 105px;
+    height: 37px;
+    background: #ffffff;
+    border: 1px solid #bdbdbd;
+    box-sizing: border-box;
+  }
+  .labelDate {
+    width: 29px;
+    height: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #666666;
+  }
+  .radiooption {
+    width: 60px;
+    height: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+  }
+  .button {
+    position: relative;
+    top: 70px;
+    width: 188px;
+    height: 44px;
+    background: #2d9cdb;
+    border-radius: 4px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #ffffff;
+    border: none;
+  }
+  .imagecontent {
+    position: relative;
+    left: 50px;
+    top: 130px;
+  }
+  .sampleheading {
+    width: 262px;
+    height: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    color: #ffffff;
+  }
+  .paratext {
+    width: 262px;
+    height: 102px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #ffffff;
+  }
+  .top {
+    height: 700px;
+    width: 100%;
+    float: left;
+  }
+  .footer {
+    width: 100%;
+  }
+}
